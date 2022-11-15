@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href=target=https://mikhaylov00.github.io/Soumyarwit/">Daniil</a> 
+<h1 align="center">Hi there, I'm <a href=https://mikhaylov00.github.io/Soumyarwit/">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, writer IT Yandex company from Russia 🇷🇺</h3>
 

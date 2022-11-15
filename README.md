@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, writer IT Yandex company from Russia 🇷🇺</h3>
 
+- 🌱 I’m currently learning Python
+
 <!--
 **Mikhaylov00/Mikhaylov00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
